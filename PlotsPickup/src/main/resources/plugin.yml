@@ -1,0 +1,5 @@
+name: PlotsPickupAddon
+version: '${project.version}'
+main: me.zerobugs.plotspickupaddon.PlotsPickupAddon
+api-version: 1.19
+authors: [ zerobugs ]
